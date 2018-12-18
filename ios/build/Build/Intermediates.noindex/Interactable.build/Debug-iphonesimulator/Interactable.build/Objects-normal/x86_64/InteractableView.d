@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/InteractableView.m \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/InteractableView.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/InteractablePoint.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/InteractableArea.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/InteractableSpring.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsAnimator.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsSpringBehavior.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsBehavior.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsObject.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsArea.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsBounceBehavior.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsFrictionBehavior.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsAnchorBehavior.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/node_modules/react-native-interactable/lib/ios/Interactable/PhysicsGravityWellBehavior.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/andrejklopov/XcodeProject/CustomCardTest/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h
