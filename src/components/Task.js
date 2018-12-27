@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import { StyleSheet, Image, View } from 'react-native'
 import {h,w} from '../../constants'
-// В связи с ограниченными сроками не писал свой нативный драйвер, а использовал готовый вариант от Wix
-// Написание собственного нативного драйвера займет больше полутора рабочих дней
 import Interactable from 'react-native-interactable'
 
 const Cards = [
